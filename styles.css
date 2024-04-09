@@ -63,11 +63,15 @@ body {
     color: #FB45B6;
 }
 
-.btn-operator {
+.btn-operator, .btn-equal {
     background-color: #76807F;
     color: #565A79;
 }
 
-.btn-hover {
+.btn:hover {
+    background-color: #9DCBD1;
+}
+
+.btn-operator-active {
     background-color: #9DCBD1;
 }
